@@ -1,0 +1,24 @@
+{
+"Estudiante":{
+{"genero" : "Femenino" ,"edad" : 19,"nombre" : "Lorena", "apellido" : "Dutan" ,"direccion": "Bellavista" },
+{"genero" : "Femenino" ,"edad" : 18,"nombre" : "Karol", "apellido" : "Peñafiel" ,"direccion": "Azogues" },
+{"genero" : "Femenino" ,"edad" : 20,"nombre" : "Guadalupe", "apellido" : "Astudillo" ,"direccion": "Azogues" },
+{"genero" : "Femenino" ,"edad" : 20,"nombre" : "Estela",  "apellido" : "Lata" ,"direccion": "Javier Loyola" },
+{"genero" : "Masculino" ,"edad" : 20,"nombre" : "Erik", "apellido" : "Peralta" ,"direccion": "Uchupucun" },
+{"genero" : "Masculino" ,"edad" : 19,"nombre" : "Brayan", "apellido" : "Romero" ,"direccion": "Azogues" },
+{"genero" : "Masculino" ,"edad" : 20,"nombre" : "Agustin", "apellido" : "Ortega" ,"direccion": "Charazol" },
+{"genero" : "Masculino" ,"edad" : 23,"nombre" : "Jefferson", "apellido" : "Trelles" ,"direccion": "Autopista" },
+{"genero" : "Masculino" ,"edad" : 20,"nombre" : "Geovani", "apellido" : "Herrera" ,"direccion": "Uchupucun" },
+{"genero" : "Masculino" ,"edad" : 20,"nombre" : "Freddy", "apellido" : "Herrera" ,"direccion": "Uchupucun" },
+{"genero" : "Masculino" ,"edad" : 23,"nombre" : "Jaime","apellido" : "Sumba" ,"direccion": "Descanso" },
+{"genero" : "Masculino" ,"edad" : 20,"nombre" : "Jose","apellido" : "Campoverde" ,"direccion": "Azogues" },
+{"genero" : "Masculino" ,"edad" : 21,"nombre" : "Jhonathan","apellido" : "Peralta" ,"direccion": "Azogues" },
+]
+"profesor":[
+{"id": 001, "apellido":"Palomino","nombre" :"Mauricio","materia":"Desarrollo de Aplicaciones Moviles","genero":"Masculino"},
+{"id": 002, "apellido":"Araujo","nombre" :"Pablo","materia":"Diversidad y Cultura","genero":"Masculino"},
+{"id": 003, "apellido":"Romero","nombre" :"Javier","materia":"Programacion de Aplicaciones Web","genero":"Masculino"},
+{"id": 004, "apellido":"Adrian","nombre" :"Guzman","materia":"Estadistica Descriptiva","genero":"Masculino"},
+{"id": 005, "apellido":"Cuenca","nombre" :"Cristina","materia":"legislacion Informatica","genero":"Femenino"},
+{"id": 006, "apellido":"Molina","nombre" :"Alexandra","materia":"Ingles B1.2","genero":"Femenino"},
+]
